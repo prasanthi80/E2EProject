@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="academy.E2EProject.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Validating Title/Nav(failed)">
+    <classes>
+      <class name="academy.E2EProject.ValidateTitle">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="isvalidTitle"/>
+        </methods>
+      </class> <!-- academy.E2EProject.ValidateTitle -->
+    </classes>
+  </test> <!-- Validating Title/Nav(failed) -->
+</suite> <!-- Failed suite [Suite] -->

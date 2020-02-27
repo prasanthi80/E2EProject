@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33448" started-at="2020-02-27T19:03:02Z" finished-at="2020-02-27T19:03:35Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="10139" started-at="2020-02-27T19:03:02Z" finished-at="2020-02-27T19:03:12Z">
+      <class name="academy.E2EProject.ValidateTitle">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:academy.E2EProject.ValidateTitle@394df057]" name="setUp" is-config="true" duration-ms="9859" started-at="2020-02-27T13:03:02Z" finished-at="2020-02-27T13:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="isNavDisplayed()[pri:0, instance:academy.E2EProject.ValidateTitle@394df057]" name="isNavDisplayed" duration-ms="98" started-at="2020-02-27T13:03:12Z" finished-at="2020-02-27T13:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isNavDisplayed -->
+        <test-method status="PASS" signature="isvalidTitle()[pri:0, instance:academy.E2EProject.ValidateTitle@394df057]" name="isvalidTitle" duration-ms="54" started-at="2020-02-27T13:03:12Z" finished-at="2020-02-27T13:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isvalidTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:academy.E2EProject.ValidateTitle@394df057]" name="tearDown" is-config="true" duration-ms="117" started-at="2020-02-27T13:03:12Z" finished-at="2020-02-27T13:03:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- academy.E2EProject.ValidateTitle -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="23285" started-at="2020-02-27T19:03:12Z" finished-at="2020-02-27T19:03:35Z">
+      <class name="academy.E2EProject.HomePage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:academy.E2EProject.HomePage@63070bab]" name="setUp" is-config="true" duration-ms="6586" started-at="2020-02-27T13:03:12Z" finished-at="2020-02-27T13:03:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:academy.E2EProject.HomePage@63070bab]" name="basePageNavigation" duration-ms="12017" started-at="2020-02-27T13:03:19Z" data-provider="getData" finished-at="2020-02-27T13:03:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[santhi.webdev@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tester2020]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:academy.E2EProject.HomePage@63070bab]" name="basePageNavigation" duration-ms="4581" started-at="2020-02-27T13:03:31Z" data-provider="getData" finished-at="2020-02-27T13:03:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:academy.E2EProject.HomePage@63070bab]" name="tearDown" is-config="true" duration-ms="100" started-at="2020-02-27T13:03:35Z" finished-at="2020-02-27T13:03:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- academy.E2EProject.HomePage -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="0" started-at="2020-02-27T19:03:35Z" finished-at="2020-02-27T19:03:35Z">
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>

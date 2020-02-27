@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="academy.E2EProject.HomePage">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- academy.E2EProject.HomePage -->
+      <class name="academy.E2EProject.ValidateTitle">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="isNavDisplayed"/>
+          <include name="isvalidTitle"/>
+        </methods>
+      </class> <!-- academy.E2EProject.ValidateTitle -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
