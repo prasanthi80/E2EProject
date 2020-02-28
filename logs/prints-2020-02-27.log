@@ -1,12 +1,12 @@
-12:59:57.489 [main] INFO  academy.E2EProject.HomePage - successfully validated title
-12:59:57.605 [main] INFO  academy.E2EProject.HomePage - Validate Title driver closed
-13:00:03.954 [main] INFO  academy.E2EProject.HomePage - driver is initialized
-13:00:16.866 [main] INFO  academy.E2EProject.HomePage - suceesfully validated login
-13:00:22.202 [main] INFO  academy.E2EProject.HomePage - suceesfully validated login
-13:00:22.682 [main] INFO  academy.E2EProject.HomePage - HomePage driver closed
-13:03:12.173 [main] INFO  academy.E2EProject.HomePage - driver is initialized
-13:03:12.281 [main] INFO  academy.E2EProject.HomePage - successfully validated navigation
-13:03:12.334 [main] INFO  academy.E2EProject.HomePage - successfully validated title
-13:03:12.453 [main] INFO  academy.E2EProject.HomePage - Validate Title driver closed
-13:03:19.055 [main] INFO  academy.E2EProject.HomePage - driver is initialized
-13:03:31.073 [main] INFO  academy.E2EProject.HomePage - suceesfully validated login
+13:03:35.638 [main] INFO  academy.E2EProject.HomePage - suceesfully validated login
+13:03:35.754 [main] INFO  academy.E2EProject.HomePage - HomePage driver closed
+17:59:05.988 [main] INFO  academy.E2EProject.HomePage - driver is initialized
+17:59:06.067 [main] INFO  academy.E2EProject.HomePage - successfully validated navigation
+17:59:06.093 [main] INFO  academy.E2EProject.HomePage - successfully validated title
+17:59:06.173 [main] INFO  academy.E2EProject.HomePage - Validate Title driver closed
+17:59:11.634 [main] INFO  academy.E2EProject.HomePage - driver is initialized
+17:59:21.947 [main] INFO  academy.E2EProject.HomePage - suceesfully validated login
+17:59:27.061 [main] INFO  academy.E2EProject.HomePage - suceesfully validated login
+17:59:27.140 [main] INFO  academy.E2EProject.HomePage - HomePage driver closed
+18:01:30.992 [main] INFO  academy.E2EProject.HomePage - driver is initialized
+18:01:31.117 [main] INFO  academy.E2EProject.HomePage - successfully validated navigation

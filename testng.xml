@@ -21,6 +21,11 @@
 			<class name="academy.E2EProject.AppTest" />
 		</classes>
 	</test>
+	<test name="Test4">
+		<classes>
+			<class name="academy.E2EProject.TestMaven" />
+		</classes>
+	</test>
 
 	<!-- Test -->
 </suite> <!-- Suite -->

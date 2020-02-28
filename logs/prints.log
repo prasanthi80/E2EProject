@@ -1,2 +1,6 @@
-13:03:35.638 [main] INFO  academy.E2EProject.HomePage - suceesfully validated login
-13:03:35.754 [main] INFO  academy.E2EProject.HomePage - HomePage driver closed
+18:01:31.147 [main] INFO  academy.E2EProject.HomePage - successfully validated title
+18:01:31.235 [main] INFO  academy.E2EProject.HomePage - Validate Title driver closed
+18:01:37.442 [main] INFO  academy.E2EProject.HomePage - driver is initialized
+18:01:49.181 [main] INFO  academy.E2EProject.HomePage - suceesfully validated login
+18:01:54.922 [main] INFO  academy.E2EProject.HomePage - suceesfully validated login
+18:01:54.995 [main] INFO  academy.E2EProject.HomePage - HomePage driver closed
